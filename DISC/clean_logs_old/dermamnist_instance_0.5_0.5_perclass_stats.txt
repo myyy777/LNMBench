@@ -1,0 +1,1400 @@
+Epoch 0
+Precision (true clean ratio): 49.70%   Recall (selected in all clean): 95.26%    
+Hard ratio : 44.57%   Correction ratio: 25.69%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 341, TrueClean: 102, TotalClean: 109, Precision: 29.91%, Recall: 93.58%
+Class 1 - Selected: 348, TrueClean: 166, TotalClean: 179, Precision: 47.70%, Recall: 92.74%
+Class 2 - Selected: 2120, TrueClean: 383, TotalClean: 399, Precision: 18.07%, Recall: 95.99%
+Class 3 - Selected: 516, TrueClean: 38, TotalClean: 41, Precision: 7.36%, Recall: 92.68%
+Class 4 - Selected: 647, TrueClean: 356, TotalClean: 380, Precision: 55.02%, Recall: 93.68%
+Class 5 - Selected: 2600, TrueClean: 2229, TotalClean: 2323, Precision: 85.73%, Recall: 95.95%
+Class 6 - Selected: 104, TrueClean: 44, TotalClean: 52, Precision: 42.31%, Recall: 84.62%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 5, TrueClean: 1, Precision: 20.00%
+Class 1 - Selected: 8, TrueClean: 6, Precision: 75.00%
+Class 2 - Selected: 39, TrueClean: 6, Precision: 15.38%
+Class 3 - Selected: 4, TrueClean: 1, Precision: 25.00%
+Class 4 - Selected: 11, TrueClean: 7, Precision: 63.64%
+Class 5 - Selected: 20, TrueClean: 17, Precision: 85.00%
+Class 6 - Selected: 5, TrueClean: 3, Precision: 60.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 1, TrueClean: 0, Precision: 0.00%
+Class 1 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 2 - Selected: 81, TrueClean: 5, Precision: 6.17%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 62, TrueClean: 32, Precision: 51.61%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 1
+Precision (true clean ratio): 49.81%   Recall (selected in all clean): 99.77%    
+Hard ratio : 30.77%   Correction ratio: 50.00%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 363, TrueClean: 109, TotalClean: 109, Precision: 30.03%, Recall: 100.00%
+Class 1 - Selected: 365, TrueClean: 176, TotalClean: 179, Precision: 48.22%, Recall: 98.32%
+Class 2 - Selected: 2208, TrueClean: 399, TotalClean: 399, Precision: 18.07%, Recall: 100.00%
+Class 3 - Selected: 540, TrueClean: 41, TotalClean: 41, Precision: 7.59%, Recall: 100.00%
+Class 4 - Selected: 686, TrueClean: 380, TotalClean: 380, Precision: 55.39%, Recall: 100.00%
+Class 5 - Selected: 2705, TrueClean: 2320, TotalClean: 2323, Precision: 85.77%, Recall: 99.87%
+Class 6 - Selected: 110, TrueClean: 50, TotalClean: 52, Precision: 45.45%, Recall: 96.15%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 1 - Selected: 5, TrueClean: 3, Precision: 60.00%
+Class 2 - Selected: 8, TrueClean: 0, Precision: 0.00%
+Class 3 - Selected: 5, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 1, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 3, TrueClean: 3, Precision: 100.00%
+Class 6 - Selected: 4, TrueClean: 2, Precision: 50.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 1 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 2 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 1, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 3, TrueClean: 2, Precision: 66.67%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 2
+Precision (true clean ratio): 49.89%   Recall (selected in all clean): 99.71%    
+Hard ratio : 23.68%   Correction ratio: 50.00%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 361, TrueClean: 109, TotalClean: 109, Precision: 30.19%, Recall: 100.00%
+Class 1 - Selected: 349, TrueClean: 175, TotalClean: 179, Precision: 50.14%, Recall: 97.77%
+Class 2 - Selected: 2217, TrueClean: 399, TotalClean: 399, Precision: 18.00%, Recall: 100.00%
+Class 3 - Selected: 545, TrueClean: 41, TotalClean: 41, Precision: 7.52%, Recall: 100.00%
+Class 4 - Selected: 684, TrueClean: 378, TotalClean: 380, Precision: 55.26%, Recall: 99.47%
+Class 5 - Selected: 2705, TrueClean: 2321, TotalClean: 2323, Precision: 85.80%, Recall: 99.91%
+Class 6 - Selected: 101, TrueClean: 50, TotalClean: 52, Precision: 49.50%, Recall: 96.15%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 3, TrueClean: 0, Precision: 0.00%
+Class 1 - Selected: 18, TrueClean: 4, Precision: 22.22%
+Class 2 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 3 - Selected: 1, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 3, TrueClean: 2, Precision: 66.67%
+Class 5 - Selected: 3, TrueClean: 2, Precision: 66.67%
+Class 6 - Selected: 10, TrueClean: 1, Precision: 10.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 1 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 2 - Selected: 1, TrueClean: 0, Precision: 0.00%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 1, TrueClean: 1, Precision: 100.00%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 3
+Precision (true clean ratio): 50.29%   Recall (selected in all clean): 99.51%    
+Hard ratio : 17.95%   Correction ratio: 85.71%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 347, TrueClean: 109, TotalClean: 109, Precision: 31.41%, Recall: 100.00%
+Class 1 - Selected: 322, TrueClean: 174, TotalClean: 179, Precision: 54.04%, Recall: 97.21%
+Class 2 - Selected: 2216, TrueClean: 399, TotalClean: 399, Precision: 18.01%, Recall: 100.00%
+Class 3 - Selected: 536, TrueClean: 38, TotalClean: 41, Precision: 7.09%, Recall: 92.68%
+Class 4 - Selected: 679, TrueClean: 378, TotalClean: 380, Precision: 55.67%, Recall: 99.47%
+Class 5 - Selected: 2707, TrueClean: 2322, TotalClean: 2323, Precision: 85.78%, Recall: 99.96%
+Class 6 - Selected: 85, TrueClean: 46, TotalClean: 52, Precision: 54.12%, Recall: 88.46%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 13, TrueClean: 0, Precision: 0.00%
+Class 1 - Selected: 34, TrueClean: 3, Precision: 8.82%
+Class 2 - Selected: 1, TrueClean: 0, Precision: 0.00%
+Class 3 - Selected: 9, TrueClean: 3, Precision: 33.33%
+Class 4 - Selected: 6, TrueClean: 2, Precision: 33.33%
+Class 5 - Selected: 1, TrueClean: 1, Precision: 100.00%
+Class 6 - Selected: 14, TrueClean: 5, Precision: 35.71%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 1 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 2 - Selected: 1, TrueClean: 0, Precision: 0.00%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 6, TrueClean: 6, Precision: 100.00%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 4
+Precision (true clean ratio): 50.42%   Recall (selected in all clean): 99.22%    
+Hard ratio : 23.17%   Correction ratio: 63.16%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 345, TrueClean: 105, TotalClean: 109, Precision: 30.43%, Recall: 96.33%
+Class 1 - Selected: 310, TrueClean: 171, TotalClean: 179, Precision: 55.16%, Recall: 95.53%
+Class 2 - Selected: 2217, TrueClean: 399, TotalClean: 399, Precision: 18.00%, Recall: 100.00%
+Class 3 - Selected: 535, TrueClean: 41, TotalClean: 41, Precision: 7.66%, Recall: 100.00%
+Class 4 - Selected: 673, TrueClean: 377, TotalClean: 380, Precision: 56.02%, Recall: 99.21%
+Class 5 - Selected: 2707, TrueClean: 2322, TotalClean: 2323, Precision: 85.78%, Recall: 99.96%
+Class 6 - Selected: 67, TrueClean: 41, TotalClean: 52, Precision: 61.19%, Recall: 78.85%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 12, TrueClean: 4, Precision: 33.33%
+Class 1 - Selected: 26, TrueClean: 3, Precision: 11.54%
+Class 2 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 3 - Selected: 7, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 13, TrueClean: 3, Precision: 23.08%
+Class 5 - Selected: 1, TrueClean: 1, Precision: 100.00%
+Class 6 - Selected: 23, TrueClean: 8, Precision: 34.78%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 1 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 2 - Selected: 3, TrueClean: 0, Precision: 0.00%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 16, TrueClean: 12, Precision: 75.00%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 5
+Precision (true clean ratio): 50.43%   Recall (selected in all clean): 99.11%    
+Hard ratio : 23.47%   Correction ratio: 80.00%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 346, TrueClean: 108, TotalClean: 109, Precision: 31.21%, Recall: 99.08%
+Class 1 - Selected: 315, TrueClean: 175, TotalClean: 179, Precision: 55.56%, Recall: 97.77%
+Class 2 - Selected: 2212, TrueClean: 399, TotalClean: 399, Precision: 18.04%, Recall: 100.00%
+Class 3 - Selected: 533, TrueClean: 40, TotalClean: 41, Precision: 7.50%, Recall: 97.56%
+Class 4 - Selected: 679, TrueClean: 379, TotalClean: 380, Precision: 55.82%, Recall: 99.74%
+Class 5 - Selected: 2704, TrueClean: 2319, TotalClean: 2323, Precision: 85.76%, Recall: 99.83%
+Class 6 - Selected: 56, TrueClean: 32, TotalClean: 52, Precision: 57.14%, Recall: 61.54%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 15, TrueClean: 1, Precision: 6.67%
+Class 1 - Selected: 34, TrueClean: 4, Precision: 11.76%
+Class 2 - Selected: 5, TrueClean: 0, Precision: 0.00%
+Class 3 - Selected: 11, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 7, TrueClean: 1, Precision: 14.29%
+Class 5 - Selected: 4, TrueClean: 4, Precision: 100.00%
+Class 6 - Selected: 22, TrueClean: 13, Precision: 59.09%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 1 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 2 - Selected: 4, TrueClean: 0, Precision: 0.00%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 16, TrueClean: 16, Precision: 100.00%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 6
+Precision (true clean ratio): 50.62%   Recall (selected in all clean): 98.85%    
+Hard ratio : 24.32%   Correction ratio: 93.33%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 337, TrueClean: 107, TotalClean: 109, Precision: 31.75%, Recall: 98.17%
+Class 1 - Selected: 299, TrueClean: 172, TotalClean: 179, Precision: 57.53%, Recall: 96.09%
+Class 2 - Selected: 2214, TrueClean: 398, TotalClean: 399, Precision: 17.98%, Recall: 99.75%
+Class 3 - Selected: 530, TrueClean: 41, TotalClean: 41, Precision: 7.74%, Recall: 100.00%
+Class 4 - Selected: 678, TrueClean: 379, TotalClean: 380, Precision: 55.90%, Recall: 99.74%
+Class 5 - Selected: 2707, TrueClean: 2322, TotalClean: 2323, Precision: 85.78%, Recall: 99.96%
+Class 6 - Selected: 37, TrueClean: 24, TotalClean: 52, Precision: 64.86%, Recall: 46.15%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 17, TrueClean: 2, Precision: 11.76%
+Class 1 - Selected: 33, TrueClean: 5, Precision: 15.15%
+Class 2 - Selected: 3, TrueClean: 1, Precision: 33.33%
+Class 3 - Selected: 13, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 9, TrueClean: 1, Precision: 11.11%
+Class 5 - Selected: 1, TrueClean: 1, Precision: 100.00%
+Class 6 - Selected: 35, TrueClean: 17, Precision: 48.57%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 1 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 2 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 15, TrueClean: 14, Precision: 93.33%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 7
+Precision (true clean ratio): 50.70%   Recall (selected in all clean): 98.28%    
+Hard ratio : 24.80%   Correction ratio: 90.91%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 325, TrueClean: 103, TotalClean: 109, Precision: 31.69%, Recall: 94.50%
+Class 1 - Selected: 280, TrueClean: 169, TotalClean: 179, Precision: 60.36%, Recall: 94.41%
+Class 2 - Selected: 2216, TrueClean: 399, TotalClean: 399, Precision: 18.01%, Recall: 100.00%
+Class 3 - Selected: 536, TrueClean: 41, TotalClean: 41, Precision: 7.65%, Recall: 100.00%
+Class 4 - Selected: 669, TrueClean: 378, TotalClean: 380, Precision: 56.50%, Recall: 99.47%
+Class 5 - Selected: 2708, TrueClean: 2323, TotalClean: 2323, Precision: 85.78%, Recall: 100.00%
+Class 6 - Selected: 18, TrueClean: 10, TotalClean: 52, Precision: 55.56%, Recall: 19.23%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 28, TrueClean: 5, Precision: 17.86%
+Class 1 - Selected: 49, TrueClean: 7, Precision: 14.29%
+Class 2 - Selected: 1, TrueClean: 0, Precision: 0.00%
+Class 3 - Selected: 6, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 14, TrueClean: 2, Precision: 14.29%
+Class 5 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 6 - Selected: 27, TrueClean: 17, Precision: 62.96%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 1 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 2 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 11, TrueClean: 10, Precision: 90.91%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 8
+Precision (true clean ratio): 50.98%   Recall (selected in all clean): 98.13%    
+Hard ratio : 20.31%   Correction ratio: 75.00%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 316, TrueClean: 105, TotalClean: 109, Precision: 33.23%, Recall: 96.33%
+Class 1 - Selected: 263, TrueClean: 166, TotalClean: 179, Precision: 63.12%, Recall: 92.74%
+Class 2 - Selected: 2217, TrueClean: 399, TotalClean: 399, Precision: 18.00%, Recall: 100.00%
+Class 3 - Selected: 525, TrueClean: 39, TotalClean: 41, Precision: 7.43%, Recall: 95.12%
+Class 4 - Selected: 665, TrueClean: 379, TotalClean: 380, Precision: 56.99%, Recall: 99.74%
+Class 5 - Selected: 2708, TrueClean: 2323, TotalClean: 2323, Precision: 85.78%, Recall: 100.00%
+Class 6 - Selected: 11, TrueClean: 7, TotalClean: 52, Precision: 63.64%, Recall: 13.46%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 31, TrueClean: 4, Precision: 12.90%
+Class 1 - Selected: 55, TrueClean: 9, Precision: 16.36%
+Class 2 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 3 - Selected: 14, TrueClean: 2, Precision: 14.29%
+Class 4 - Selected: 14, TrueClean: 1, Precision: 7.14%
+Class 5 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 6 - Selected: 14, TrueClean: 10, Precision: 71.43%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 1 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 2 - Selected: 1, TrueClean: 0, Precision: 0.00%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 15, TrueClean: 12, Precision: 80.00%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 9
+Precision (true clean ratio): 51.20%   Recall (selected in all clean): 97.65%    
+Hard ratio : 22.88%   Correction ratio: 83.33%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 308, TrueClean: 102, TotalClean: 109, Precision: 33.12%, Recall: 93.58%
+Class 1 - Selected: 247, TrueClean: 160, TotalClean: 179, Precision: 64.78%, Recall: 89.39%
+Class 2 - Selected: 2217, TrueClean: 399, TotalClean: 399, Precision: 18.00%, Recall: 100.00%
+Class 3 - Selected: 506, TrueClean: 40, TotalClean: 41, Precision: 7.91%, Recall: 97.56%
+Class 4 - Selected: 655, TrueClean: 377, TotalClean: 380, Precision: 57.56%, Recall: 99.21%
+Class 5 - Selected: 2707, TrueClean: 2322, TotalClean: 2323, Precision: 85.78%, Recall: 99.96%
+Class 6 - Selected: 2, TrueClean: 1, TotalClean: 52, Precision: 50.00%, Recall: 1.92%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 32, TrueClean: 6, Precision: 18.75%
+Class 1 - Selected: 55, TrueClean: 15, Precision: 27.27%
+Class 2 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 3 - Selected: 32, TrueClean: 1, Precision: 3.12%
+Class 4 - Selected: 22, TrueClean: 3, Precision: 13.64%
+Class 5 - Selected: 1, TrueClean: 1, Precision: 100.00%
+Class 6 - Selected: 11, TrueClean: 9, Precision: 81.82%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 1 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 2 - Selected: 1, TrueClean: 0, Precision: 0.00%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 29, TrueClean: 25, Precision: 86.21%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 10
+Precision (true clean ratio): 51.69%   Recall (selected in all clean): 97.47%    
+Hard ratio : 14.29%   Correction ratio: 73.53%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 291, TrueClean: 98, TotalClean: 109, Precision: 33.68%, Recall: 89.91%
+Class 1 - Selected: 236, TrueClean: 159, TotalClean: 179, Precision: 67.37%, Recall: 88.83%
+Class 2 - Selected: 2217, TrueClean: 399, TotalClean: 399, Precision: 18.00%, Recall: 100.00%
+Class 3 - Selected: 479, TrueClean: 38, TotalClean: 41, Precision: 7.93%, Recall: 92.68%
+Class 4 - Selected: 637, TrueClean: 378, TotalClean: 380, Precision: 59.34%, Recall: 99.47%
+Class 5 - Selected: 2708, TrueClean: 2323, TotalClean: 2323, Precision: 85.78%, Recall: 100.00%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 47, TrueClean: 8, Precision: 17.02%
+Class 1 - Selected: 37, TrueClean: 11, Precision: 29.73%
+Class 2 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 3 - Selected: 45, TrueClean: 2, Precision: 4.44%
+Class 4 - Selected: 32, TrueClean: 2, Precision: 6.25%
+Class 5 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 1 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 2 - Selected: 6, TrueClean: 2, Precision: 33.33%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 2, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 26, TrueClean: 23, Precision: 88.46%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 11
+Precision (true clean ratio): 51.92%   Recall (selected in all clean): 97.07%    
+Hard ratio : 18.18%   Correction ratio: 77.08%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 282, TrueClean: 96, TotalClean: 109, Precision: 34.04%, Recall: 88.07%
+Class 1 - Selected: 217, TrueClean: 151, TotalClean: 179, Precision: 69.59%, Recall: 84.36%
+Class 2 - Selected: 2216, TrueClean: 399, TotalClean: 399, Precision: 18.01%, Recall: 100.00%
+Class 3 - Selected: 457, TrueClean: 36, TotalClean: 41, Precision: 7.88%, Recall: 87.80%
+Class 4 - Selected: 632, TrueClean: 376, TotalClean: 380, Precision: 59.49%, Recall: 98.95%
+Class 5 - Selected: 2708, TrueClean: 2323, TotalClean: 2323, Precision: 85.78%, Recall: 100.00%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 47, TrueClean: 8, Precision: 17.02%
+Class 1 - Selected: 48, TrueClean: 21, Precision: 43.75%
+Class 2 - Selected: 1, TrueClean: 0, Precision: 0.00%
+Class 3 - Selected: 54, TrueClean: 1, Precision: 1.85%
+Class 4 - Selected: 37, TrueClean: 4, Precision: 10.81%
+Class 5 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 1 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 2 - Selected: 6, TrueClean: 1, Precision: 16.67%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 42, TrueClean: 36, Precision: 85.71%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 12
+Precision (true clean ratio): 52.18%   Recall (selected in all clean): 96.50%    
+Hard ratio : 22.58%   Correction ratio: 78.95%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 277, TrueClean: 90, TotalClean: 109, Precision: 32.49%, Recall: 82.57%
+Class 1 - Selected: 202, TrueClean: 143, TotalClean: 179, Precision: 70.79%, Recall: 79.89%
+Class 2 - Selected: 2217, TrueClean: 399, TotalClean: 399, Precision: 18.00%, Recall: 100.00%
+Class 3 - Selected: 418, TrueClean: 34, TotalClean: 41, Precision: 8.13%, Recall: 82.93%
+Class 4 - Selected: 620, TrueClean: 372, TotalClean: 380, Precision: 60.00%, Recall: 97.89%
+Class 5 - Selected: 2707, TrueClean: 2323, TotalClean: 2323, Precision: 85.81%, Recall: 100.00%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 45, TrueClean: 13, Precision: 28.89%
+Class 1 - Selected: 51, TrueClean: 25, Precision: 49.02%
+Class 2 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 3 - Selected: 81, TrueClean: 4, Precision: 4.94%
+Class 4 - Selected: 39, TrueClean: 7, Precision: 17.95%
+Class 5 - Selected: 1, TrueClean: 0, Precision: 0.00%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 1 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 2 - Selected: 5, TrueClean: 1, Precision: 20.00%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 52, TrueClean: 44, Precision: 84.62%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 13
+Precision (true clean ratio): 52.55%   Recall (selected in all clean): 96.35%    
+Hard ratio : 22.13%   Correction ratio: 83.33%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 267, TrueClean: 90, TotalClean: 109, Precision: 33.71%, Recall: 82.57%
+Class 1 - Selected: 195, TrueClean: 144, TotalClean: 179, Precision: 73.85%, Recall: 80.45%
+Class 2 - Selected: 2217, TrueClean: 399, TotalClean: 399, Precision: 18.00%, Recall: 100.00%
+Class 3 - Selected: 398, TrueClean: 35, TotalClean: 41, Precision: 8.79%, Recall: 85.37%
+Class 4 - Selected: 601, TrueClean: 365, TotalClean: 380, Precision: 60.73%, Recall: 96.05%
+Class 5 - Selected: 2708, TrueClean: 2323, TotalClean: 2323, Precision: 85.78%, Recall: 100.00%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 56, TrueClean: 15, Precision: 26.79%
+Class 1 - Selected: 54, TrueClean: 22, Precision: 40.74%
+Class 2 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 3 - Selected: 83, TrueClean: 3, Precision: 3.61%
+Class 4 - Selected: 51, TrueClean: 14, Precision: 27.45%
+Class 5 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 1, TrueClean: 0, Precision: 0.00%
+Class 1 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 2 - Selected: 5, TrueClean: 1, Precision: 20.00%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 54, TrueClean: 49, Precision: 90.74%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 14
+Precision (true clean ratio): 52.88%   Recall (selected in all clean): 95.92%    
+Hard ratio : 22.85%   Correction ratio: 92.06%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 258, TrueClean: 89, TotalClean: 109, Precision: 34.50%, Recall: 81.65%
+Class 1 - Selected: 180, TrueClean: 136, TotalClean: 179, Precision: 75.56%, Recall: 75.98%
+Class 2 - Selected: 2216, TrueClean: 399, TotalClean: 399, Precision: 18.01%, Recall: 100.00%
+Class 3 - Selected: 356, TrueClean: 32, TotalClean: 41, Precision: 8.99%, Recall: 78.05%
+Class 4 - Selected: 600, TrueClean: 362, TotalClean: 380, Precision: 60.33%, Recall: 95.26%
+Class 5 - Selected: 2708, TrueClean: 2323, TotalClean: 2323, Precision: 85.78%, Recall: 100.00%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 70, TrueClean: 15, Precision: 21.43%
+Class 1 - Selected: 55, TrueClean: 25, Precision: 45.45%
+Class 2 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 3 - Selected: 92, TrueClean: 6, Precision: 6.52%
+Class 4 - Selected: 50, TrueClean: 15, Precision: 30.00%
+Class 5 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 1 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 2 - Selected: 3, TrueClean: 1, Precision: 33.33%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 60, TrueClean: 57, Precision: 95.00%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 15
+Precision (true clean ratio): 53.24%   Recall (selected in all clean): 95.29%    
+Hard ratio : 27.03%   Correction ratio: 80.00%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 261, TrueClean: 87, TotalClean: 109, Precision: 33.33%, Recall: 79.82%
+Class 1 - Selected: 166, TrueClean: 127, TotalClean: 179, Precision: 76.51%, Recall: 70.95%
+Class 2 - Selected: 2217, TrueClean: 399, TotalClean: 399, Precision: 18.00%, Recall: 100.00%
+Class 3 - Selected: 304, TrueClean: 28, TotalClean: 41, Precision: 9.21%, Recall: 68.29%
+Class 4 - Selected: 578, TrueClean: 355, TotalClean: 380, Precision: 61.42%, Recall: 93.42%
+Class 5 - Selected: 2708, TrueClean: 2323, TotalClean: 2323, Precision: 85.78%, Recall: 100.00%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 58, TrueClean: 17, Precision: 29.31%
+Class 1 - Selected: 61, TrueClean: 34, Precision: 55.74%
+Class 2 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 3 - Selected: 114, TrueClean: 6, Precision: 5.26%
+Class 4 - Selected: 63, TrueClean: 23, Precision: 36.51%
+Class 5 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 1 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 2 - Selected: 9, TrueClean: 3, Precision: 33.33%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 71, TrueClean: 61, Precision: 85.92%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 16
+Precision (true clean ratio): 53.74%   Recall (selected in all clean): 94.77%    
+Hard ratio : 28.43%   Correction ratio: 89.66%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 248, TrueClean: 85, TotalClean: 109, Precision: 34.27%, Recall: 77.98%
+Class 1 - Selected: 161, TrueClean: 117, TotalClean: 179, Precision: 72.67%, Recall: 65.36%
+Class 2 - Selected: 2217, TrueClean: 399, TotalClean: 399, Precision: 18.00%, Recall: 100.00%
+Class 3 - Selected: 259, TrueClean: 30, TotalClean: 41, Precision: 11.58%, Recall: 73.17%
+Class 4 - Selected: 552, TrueClean: 348, TotalClean: 380, Precision: 63.04%, Recall: 91.58%
+Class 5 - Selected: 2706, TrueClean: 2322, TotalClean: 2323, Precision: 85.81%, Recall: 99.96%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 62, TrueClean: 18, Precision: 29.03%
+Class 1 - Selected: 60, TrueClean: 41, Precision: 68.33%
+Class 2 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 3 - Selected: 110, TrueClean: 4, Precision: 3.64%
+Class 4 - Selected: 72, TrueClean: 23, Precision: 31.94%
+Class 5 - Selected: 2, TrueClean: 1, Precision: 50.00%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 1 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 2 - Selected: 3, TrueClean: 1, Precision: 33.33%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 113, TrueClean: 103, Precision: 91.15%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 17
+Precision (true clean ratio): 54.28%   Recall (selected in all clean): 94.40%    
+Hard ratio : 29.73%   Correction ratio: 84.67%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 244, TrueClean: 89, TotalClean: 109, Precision: 36.48%, Recall: 81.65%
+Class 1 - Selected: 156, TrueClean: 118, TotalClean: 179, Precision: 75.64%, Recall: 65.92%
+Class 2 - Selected: 2215, TrueClean: 398, TotalClean: 399, Precision: 17.97%, Recall: 99.75%
+Class 3 - Selected: 211, TrueClean: 27, TotalClean: 41, Precision: 12.80%, Recall: 65.85%
+Class 4 - Selected: 526, TrueClean: 334, TotalClean: 380, Precision: 63.50%, Recall: 87.89%
+Class 5 - Selected: 2705, TrueClean: 2322, TotalClean: 2323, Precision: 85.84%, Recall: 99.96%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 66, TrueClean: 15, Precision: 22.73%
+Class 1 - Selected: 65, TrueClean: 36, Precision: 55.38%
+Class 2 - Selected: 1, TrueClean: 0, Precision: 0.00%
+Class 3 - Selected: 107, TrueClean: 7, Precision: 6.54%
+Class 4 - Selected: 91, TrueClean: 40, Precision: 43.96%
+Class 5 - Selected: 3, TrueClean: 1, Precision: 33.33%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 1 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 2 - Selected: 9, TrueClean: 3, Precision: 33.33%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 128, TrueClean: 113, Precision: 88.28%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 18
+Precision (true clean ratio): 54.70%   Recall (selected in all clean): 93.65%    
+Hard ratio : 33.14%   Correction ratio: 85.88%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 230, TrueClean: 83, TotalClean: 109, Precision: 36.09%, Recall: 76.15%
+Class 1 - Selected: 151, TrueClean: 113, TotalClean: 179, Precision: 74.83%, Recall: 63.13%
+Class 2 - Selected: 2214, TrueClean: 399, TotalClean: 399, Precision: 18.02%, Recall: 100.00%
+Class 3 - Selected: 161, TrueClean: 22, TotalClean: 41, Precision: 13.66%, Recall: 53.66%
+Class 4 - Selected: 502, TrueClean: 324, TotalClean: 380, Precision: 64.54%, Recall: 85.26%
+Class 5 - Selected: 2705, TrueClean: 2321, TotalClean: 2323, Precision: 85.80%, Recall: 99.91%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 66, TrueClean: 20, Precision: 30.30%
+Class 1 - Selected: 67, TrueClean: 41, Precision: 61.19%
+Class 2 - Selected: 3, TrueClean: 0, Precision: 0.00%
+Class 3 - Selected: 109, TrueClean: 8, Precision: 7.34%
+Class 4 - Selected: 99, TrueClean: 44, Precision: 44.44%
+Class 5 - Selected: 3, TrueClean: 2, Precision: 66.67%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 1 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 2 - Selected: 13, TrueClean: 3, Precision: 23.08%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 1, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 163, TrueClean: 149, Precision: 91.41%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 19
+Precision (true clean ratio): 54.88%   Recall (selected in all clean): 93.31%    
+Hard ratio : 37.95%   Correction ratio: 84.54%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 229, TrueClean: 82, TotalClean: 109, Precision: 35.81%, Recall: 75.23%
+Class 1 - Selected: 157, TrueClean: 118, TotalClean: 179, Precision: 75.16%, Recall: 65.92%
+Class 2 - Selected: 2215, TrueClean: 399, TotalClean: 399, Precision: 18.01%, Recall: 100.00%
+Class 3 - Selected: 133, TrueClean: 16, TotalClean: 41, Precision: 12.03%, Recall: 39.02%
+Class 4 - Selected: 481, TrueClean: 312, TotalClean: 380, Precision: 64.86%, Recall: 82.11%
+Class 5 - Selected: 2707, TrueClean: 2323, TotalClean: 2323, Precision: 85.81%, Recall: 100.00%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 70, TrueClean: 21, Precision: 30.00%
+Class 1 - Selected: 52, TrueClean: 31, Precision: 59.62%
+Class 2 - Selected: 2, TrueClean: 0, Precision: 0.00%
+Class 3 - Selected: 81, TrueClean: 12, Precision: 14.81%
+Class 4 - Selected: 97, TrueClean: 51, Precision: 52.58%
+Class 5 - Selected: 1, TrueClean: 0, Precision: 0.00%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 1 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 2 - Selected: 13, TrueClean: 5, Precision: 38.46%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 181, TrueClean: 159, Precision: 87.85%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 20
+Precision (true clean ratio): 55.21%   Recall (selected in all clean): 92.68%    
+Hard ratio : 39.38%   Correction ratio: 90.98%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 218, TrueClean: 79, TotalClean: 109, Precision: 36.24%, Recall: 72.48%
+Class 1 - Selected: 147, TrueClean: 108, TotalClean: 179, Precision: 73.47%, Recall: 60.34%
+Class 2 - Selected: 2210, TrueClean: 398, TotalClean: 399, Precision: 18.01%, Recall: 99.75%
+Class 3 - Selected: 96, TrueClean: 14, TotalClean: 41, Precision: 14.58%, Recall: 34.15%
+Class 4 - Selected: 476, TrueClean: 310, TotalClean: 380, Precision: 65.13%, Recall: 81.58%
+Class 5 - Selected: 2700, TrueClean: 2319, TotalClean: 2323, Precision: 85.89%, Recall: 99.83%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 76, TrueClean: 20, Precision: 26.32%
+Class 1 - Selected: 64, TrueClean: 41, Precision: 64.06%
+Class 2 - Selected: 7, TrueClean: 1, Precision: 14.29%
+Class 3 - Selected: 68, TrueClean: 8, Precision: 11.76%
+Class 4 - Selected: 102, TrueClean: 54, Precision: 52.94%
+Class 5 - Selected: 8, TrueClean: 4, Precision: 50.00%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 1, TrueClean: 0, Precision: 0.00%
+Class 1 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 2 - Selected: 11, TrueClean: 8, Precision: 72.73%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 243, TrueClean: 224, Precision: 92.18%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 21
+Precision (true clean ratio): 55.33%   Recall (selected in all clean): 92.65%    
+Hard ratio : 43.93%   Correction ratio: 91.63%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 218, TrueClean: 82, TotalClean: 109, Precision: 37.61%, Recall: 75.23%
+Class 1 - Selected: 141, TrueClean: 109, TotalClean: 179, Precision: 77.30%, Recall: 60.89%
+Class 2 - Selected: 2213, TrueClean: 398, TotalClean: 399, Precision: 17.98%, Recall: 99.75%
+Class 3 - Selected: 87, TrueClean: 11, TotalClean: 41, Precision: 12.64%, Recall: 26.83%
+Class 4 - Selected: 472, TrueClean: 308, TotalClean: 380, Precision: 65.25%, Recall: 81.05%
+Class 5 - Selected: 2701, TrueClean: 2319, TotalClean: 2323, Precision: 85.86%, Recall: 99.83%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 70, TrueClean: 18, Precision: 25.71%
+Class 1 - Selected: 68, TrueClean: 44, Precision: 64.71%
+Class 2 - Selected: 4, TrueClean: 1, Precision: 25.00%
+Class 3 - Selected: 60, TrueClean: 12, Precision: 20.00%
+Class 4 - Selected: 98, TrueClean: 55, Precision: 56.12%
+Class 5 - Selected: 5, TrueClean: 4, Precision: 80.00%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 1, TrueClean: 1, Precision: 100.00%
+Class 1 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 2 - Selected: 12, TrueClean: 6, Precision: 50.00%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 1, TrueClean: 1, Precision: 100.00%
+Class 5 - Selected: 213, TrueClean: 200, Precision: 93.90%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 22
+Precision (true clean ratio): 55.51%   Recall (selected in all clean): 91.87%    
+Hard ratio : 41.90%   Correction ratio: 86.57%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 214, TrueClean: 79, TotalClean: 109, Precision: 36.92%, Recall: 72.48%
+Class 1 - Selected: 149, TrueClean: 116, TotalClean: 179, Precision: 77.85%, Recall: 64.80%
+Class 2 - Selected: 2207, TrueClean: 397, TotalClean: 399, Precision: 17.99%, Recall: 99.50%
+Class 3 - Selected: 80, TrueClean: 13, TotalClean: 41, Precision: 16.25%, Recall: 31.71%
+Class 4 - Selected: 417, TrueClean: 278, TotalClean: 380, Precision: 66.67%, Recall: 73.16%
+Class 5 - Selected: 2698, TrueClean: 2317, TotalClean: 2323, Precision: 85.88%, Recall: 99.74%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 74, TrueClean: 23, Precision: 31.08%
+Class 1 - Selected: 52, TrueClean: 30, Precision: 57.69%
+Class 2 - Selected: 9, TrueClean: 2, Precision: 22.22%
+Class 3 - Selected: 57, TrueClean: 6, Precision: 10.53%
+Class 4 - Selected: 127, TrueClean: 72, Precision: 56.69%
+Class 5 - Selected: 8, TrueClean: 4, Precision: 50.00%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 1, TrueClean: 1, Precision: 100.00%
+Class 1 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 2 - Selected: 6, TrueClean: 0, Precision: 0.00%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 2, TrueClean: 2, Precision: 100.00%
+Class 5 - Selected: 259, TrueClean: 229, Precision: 88.42%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 23
+Precision (true clean ratio): 55.55%   Recall (selected in all clean): 91.04%    
+Hard ratio : 45.86%   Correction ratio: 88.46%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 206, TrueClean: 80, TotalClean: 109, Precision: 38.83%, Recall: 73.39%
+Class 1 - Selected: 136, TrueClean: 106, TotalClean: 179, Precision: 77.94%, Recall: 59.22%
+Class 2 - Selected: 2205, TrueClean: 398, TotalClean: 399, Precision: 18.05%, Recall: 99.75%
+Class 3 - Selected: 76, TrueClean: 11, TotalClean: 41, Precision: 14.47%, Recall: 26.83%
+Class 4 - Selected: 393, TrueClean: 263, TotalClean: 380, Precision: 66.92%, Recall: 69.21%
+Class 5 - Selected: 2692, TrueClean: 2313, TotalClean: 2323, Precision: 85.92%, Recall: 99.57%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 78, TrueClean: 19, Precision: 24.36%
+Class 1 - Selected: 66, TrueClean: 43, Precision: 65.15%
+Class 2 - Selected: 11, TrueClean: 1, Precision: 9.09%
+Class 3 - Selected: 55, TrueClean: 10, Precision: 18.18%
+Class 4 - Selected: 140, TrueClean: 84, Precision: 60.00%
+Class 5 - Selected: 12, TrueClean: 9, Precision: 75.00%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 1 - Selected: 2, TrueClean: 1, Precision: 50.00%
+Class 2 - Selected: 15, TrueClean: 7, Precision: 46.67%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 1, TrueClean: 1, Precision: 100.00%
+Class 5 - Selected: 294, TrueClean: 267, Precision: 90.82%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 24
+Precision (true clean ratio): 55.83%   Recall (selected in all clean): 90.21%    
+Hard ratio : 44.56%   Correction ratio: 85.90%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 192, TrueClean: 76, TotalClean: 109, Precision: 39.58%, Recall: 69.72%
+Class 1 - Selected: 123, TrueClean: 99, TotalClean: 179, Precision: 80.49%, Recall: 55.31%
+Class 2 - Selected: 2208, TrueClean: 398, TotalClean: 399, Precision: 18.03%, Recall: 99.75%
+Class 3 - Selected: 53, TrueClean: 6, TotalClean: 41, Precision: 11.32%, Recall: 14.63%
+Class 4 - Selected: 357, TrueClean: 247, TotalClean: 380, Precision: 69.19%, Recall: 65.00%
+Class 5 - Selected: 2695, TrueClean: 2316, TotalClean: 2323, Precision: 85.94%, Recall: 99.70%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 86, TrueClean: 22, Precision: 25.58%
+Class 1 - Selected: 73, TrueClean: 44, Precision: 60.27%
+Class 2 - Selected: 8, TrueClean: 1, Precision: 12.50%
+Class 3 - Selected: 57, TrueClean: 13, Precision: 22.81%
+Class 4 - Selected: 161, TrueClean: 91, Precision: 56.52%
+Class 5 - Selected: 10, TrueClean: 5, Precision: 50.00%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 1 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 2 - Selected: 17, TrueClean: 9, Precision: 52.94%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 2, TrueClean: 1, Precision: 50.00%
+Class 5 - Selected: 286, TrueClean: 252, Precision: 88.11%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 25
+Precision (true clean ratio): 55.62%   Recall (selected in all clean): 89.00%    
+Hard ratio : 45.73%   Correction ratio: 84.80%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 195, TrueClean: 72, TotalClean: 109, Precision: 36.92%, Recall: 66.06%
+Class 1 - Selected: 131, TrueClean: 102, TotalClean: 179, Precision: 77.86%, Recall: 56.98%
+Class 2 - Selected: 2202, TrueClean: 395, TotalClean: 399, Precision: 17.94%, Recall: 99.00%
+Class 3 - Selected: 48, TrueClean: 4, TotalClean: 41, Precision: 8.33%, Recall: 9.76%
+Class 4 - Selected: 310, TrueClean: 215, TotalClean: 380, Precision: 69.35%, Recall: 56.58%
+Class 5 - Selected: 2688, TrueClean: 2312, TotalClean: 2323, Precision: 86.01%, Recall: 99.53%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 82, TrueClean: 24, Precision: 29.27%
+Class 1 - Selected: 64, TrueClean: 38, Precision: 59.38%
+Class 2 - Selected: 14, TrueClean: 4, Precision: 28.57%
+Class 3 - Selected: 53, TrueClean: 11, Precision: 20.75%
+Class 4 - Selected: 169, TrueClean: 96, Precision: 56.80%
+Class 5 - Selected: 16, TrueClean: 9, Precision: 56.25%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 1 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 2 - Selected: 16, TrueClean: 9, Precision: 56.25%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 280, TrueClean: 242, Precision: 86.43%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 26
+Precision (true clean ratio): 55.82%   Recall (selected in all clean): 88.63%    
+Hard ratio : 47.43%   Correction ratio: 83.96%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 189, TrueClean: 71, TotalClean: 109, Precision: 37.57%, Recall: 65.14%
+Class 1 - Selected: 120, TrueClean: 98, TotalClean: 179, Precision: 81.67%, Recall: 54.75%
+Class 2 - Selected: 2198, TrueClean: 397, TotalClean: 399, Precision: 18.06%, Recall: 99.50%
+Class 3 - Selected: 50, TrueClean: 7, TotalClean: 41, Precision: 14.00%, Recall: 17.07%
+Class 4 - Selected: 288, TrueClean: 205, TotalClean: 380, Precision: 71.18%, Recall: 53.95%
+Class 5 - Selected: 2685, TrueClean: 2309, TotalClean: 2323, Precision: 86.00%, Recall: 99.40%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 82, TrueClean: 28, Precision: 34.15%
+Class 1 - Selected: 78, TrueClean: 51, Precision: 65.38%
+Class 2 - Selected: 15, TrueClean: 2, Precision: 13.33%
+Class 3 - Selected: 47, TrueClean: 8, Precision: 17.02%
+Class 4 - Selected: 168, TrueClean: 93, Precision: 55.36%
+Class 5 - Selected: 19, TrueClean: 12, Precision: 63.16%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 1 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 2 - Selected: 37, TrueClean: 21, Precision: 56.76%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 1, TrueClean: 1, Precision: 100.00%
+Class 5 - Selected: 336, TrueClean: 292, Precision: 86.90%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 27
+Precision (true clean ratio): 56.01%   Recall (selected in all clean): 88.06%    
+Hard ratio : 45.34%   Correction ratio: 79.07%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 185, TrueClean: 71, TotalClean: 109, Precision: 38.38%, Recall: 65.14%
+Class 1 - Selected: 118, TrueClean: 95, TotalClean: 179, Precision: 80.51%, Recall: 53.07%
+Class 2 - Selected: 2192, TrueClean: 394, TotalClean: 399, Precision: 17.97%, Recall: 98.75%
+Class 3 - Selected: 39, TrueClean: 3, TotalClean: 41, Precision: 7.69%, Recall: 7.32%
+Class 4 - Selected: 256, TrueClean: 192, TotalClean: 380, Precision: 75.00%, Recall: 50.53%
+Class 5 - Selected: 2686, TrueClean: 2312, TotalClean: 2323, Precision: 86.08%, Recall: 99.53%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 89, TrueClean: 25, Precision: 28.09%
+Class 1 - Selected: 76, TrueClean: 43, Precision: 56.58%
+Class 2 - Selected: 22, TrueClean: 5, Precision: 22.73%
+Class 3 - Selected: 42, TrueClean: 9, Precision: 21.43%
+Class 4 - Selected: 153, TrueClean: 90, Precision: 58.82%
+Class 5 - Selected: 15, TrueClean: 8, Precision: 53.33%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 1 - Selected: 3, TrueClean: 0, Precision: 0.00%
+Class 2 - Selected: 48, TrueClean: 27, Precision: 56.25%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 293, TrueClean: 245, Precision: 83.62%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 28
+Precision (true clean ratio): 55.82%   Recall (selected in all clean): 86.97%    
+Hard ratio : 50.61%   Correction ratio: 80.22%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 192, TrueClean: 72, TotalClean: 109, Precision: 37.50%, Recall: 66.06%
+Class 1 - Selected: 133, TrueClean: 101, TotalClean: 179, Precision: 75.94%, Recall: 56.42%
+Class 2 - Selected: 2184, TrueClean: 389, TotalClean: 399, Precision: 17.81%, Recall: 97.49%
+Class 3 - Selected: 30, TrueClean: 4, TotalClean: 41, Precision: 13.33%, Recall: 9.76%
+Class 4 - Selected: 211, TrueClean: 157, TotalClean: 380, Precision: 74.41%, Recall: 41.32%
+Class 5 - Selected: 2676, TrueClean: 2306, TotalClean: 2323, Precision: 86.17%, Recall: 99.27%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 73, TrueClean: 20, Precision: 27.40%
+Class 1 - Selected: 65, TrueClean: 44, Precision: 67.69%
+Class 2 - Selected: 29, TrueClean: 10, Precision: 34.48%
+Class 3 - Selected: 38, TrueClean: 7, Precision: 18.42%
+Class 4 - Selected: 183, TrueClean: 115, Precision: 62.84%
+Class 5 - Selected: 25, TrueClean: 13, Precision: 52.00%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 1, TrueClean: 1, Precision: 100.00%
+Class 1 - Selected: 1, TrueClean: 0, Precision: 0.00%
+Class 2 - Selected: 45, TrueClean: 22, Precision: 48.89%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 1, TrueClean: 1, Precision: 100.00%
+Class 5 - Selected: 316, TrueClean: 268, Precision: 84.81%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 29
+Precision (true clean ratio): 55.99%   Recall (selected in all clean): 86.99%    
+Hard ratio : 47.53%   Correction ratio: 75.90%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 191, TrueClean: 75, TotalClean: 109, Precision: 39.27%, Recall: 68.81%
+Class 1 - Selected: 133, TrueClean: 100, TotalClean: 179, Precision: 75.19%, Recall: 55.87%
+Class 2 - Selected: 2192, TrueClean: 395, TotalClean: 399, Precision: 18.02%, Recall: 99.00%
+Class 3 - Selected: 24, TrueClean: 1, TotalClean: 41, Precision: 4.17%, Recall: 2.44%
+Class 4 - Selected: 197, TrueClean: 155, TotalClean: 380, Precision: 78.68%, Recall: 40.79%
+Class 5 - Selected: 2675, TrueClean: 2304, TotalClean: 2323, Precision: 86.13%, Recall: 99.18%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 76, TrueClean: 20, Precision: 26.32%
+Class 1 - Selected: 58, TrueClean: 41, Precision: 70.69%
+Class 2 - Selected: 20, TrueClean: 3, Precision: 15.00%
+Class 3 - Selected: 40, TrueClean: 6, Precision: 15.00%
+Class 4 - Selected: 145, TrueClean: 89, Precision: 61.38%
+Class 5 - Selected: 25, TrueClean: 14, Precision: 56.00%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 3, TrueClean: 1, Precision: 33.33%
+Class 1 - Selected: 3, TrueClean: 0, Precision: 0.00%
+Class 2 - Selected: 63, TrueClean: 28, Precision: 44.44%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 2, TrueClean: 2, Precision: 100.00%
+Class 5 - Selected: 344, TrueClean: 284, Precision: 82.56%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 30
+Precision (true clean ratio): 56.13%   Recall (selected in all clean): 85.85%    
+Hard ratio : 51.14%   Correction ratio: 73.00%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 177, TrueClean: 62, TotalClean: 109, Precision: 35.03%, Recall: 56.88%
+Class 1 - Selected: 119, TrueClean: 98, TotalClean: 179, Precision: 82.35%, Recall: 54.75%
+Class 2 - Selected: 2188, TrueClean: 397, TotalClean: 399, Precision: 18.14%, Recall: 99.50%
+Class 3 - Selected: 8, TrueClean: 1, TotalClean: 41, Precision: 12.50%, Recall: 2.44%
+Class 4 - Selected: 164, TrueClean: 131, TotalClean: 380, Precision: 79.88%, Recall: 34.47%
+Class 5 - Selected: 2671, TrueClean: 2301, TotalClean: 2323, Precision: 86.15%, Recall: 99.05%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 77, TrueClean: 32, Precision: 41.56%
+Class 1 - Selected: 68, TrueClean: 37, Precision: 54.41%
+Class 2 - Selected: 25, TrueClean: 1, Precision: 4.00%
+Class 3 - Selected: 21, TrueClean: 1, Precision: 4.76%
+Class 4 - Selected: 132, TrueClean: 92, Precision: 69.70%
+Class 5 - Selected: 27, TrueClean: 16, Precision: 59.26%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 5, TrueClean: 1, Precision: 20.00%
+Class 1 - Selected: 3, TrueClean: 1, Precision: 33.33%
+Class 2 - Selected: 87, TrueClean: 35, Precision: 40.23%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 2, TrueClean: 2, Precision: 100.00%
+Class 5 - Selected: 366, TrueClean: 299, Precision: 81.69%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 31
+Precision (true clean ratio): 56.24%   Recall (selected in all clean): 85.56%    
+Hard ratio : 52.87%   Correction ratio: 68.90%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 178, TrueClean: 71, TotalClean: 109, Precision: 39.89%, Recall: 65.14%
+Class 1 - Selected: 129, TrueClean: 98, TotalClean: 179, Precision: 75.97%, Recall: 54.75%
+Class 2 - Selected: 2182, TrueClean: 396, TotalClean: 399, Precision: 18.15%, Recall: 99.25%
+Class 3 - Selected: 2, TrueClean: 0, TotalClean: 41, Precision: 0.00%, Recall: 0.00%
+Class 4 - Selected: 128, TrueClean: 104, TotalClean: 380, Precision: 81.25%, Recall: 27.37%
+Class 5 - Selected: 2680, TrueClean: 2311, TotalClean: 2323, Precision: 86.23%, Recall: 99.48%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 76, TrueClean: 23, Precision: 30.26%
+Class 1 - Selected: 58, TrueClean: 41, Precision: 70.69%
+Class 2 - Selected: 28, TrueClean: 3, Precision: 10.71%
+Class 3 - Selected: 3, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 127, TrueClean: 91, Precision: 71.65%
+Class 5 - Selected: 22, TrueClean: 8, Precision: 36.36%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 5, TrueClean: 3, Precision: 60.00%
+Class 1 - Selected: 13, TrueClean: 8, Precision: 61.54%
+Class 2 - Selected: 104, TrueClean: 43, Precision: 41.35%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 2, TrueClean: 1, Precision: 50.00%
+Class 5 - Selected: 384, TrueClean: 295, Precision: 76.82%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 32
+Precision (true clean ratio): 56.01%   Recall (selected in all clean): 83.92%    
+Hard ratio : 57.10%   Correction ratio: 71.26%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 183, TrueClean: 73, TotalClean: 109, Precision: 39.89%, Recall: 66.97%
+Class 1 - Selected: 102, TrueClean: 78, TotalClean: 179, Precision: 76.47%, Recall: 43.58%
+Class 2 - Selected: 2175, TrueClean: 392, TotalClean: 399, Precision: 18.02%, Recall: 98.25%
+Class 3 - Selected: 0, TrueClean: 0, TotalClean: 41, Precision: 0.00%, Recall: 0.00%
+Class 4 - Selected: 93, TrueClean: 81, TotalClean: 380, Precision: 87.10%, Recall: 21.32%
+Class 5 - Selected: 2666, TrueClean: 2299, TotalClean: 2323, Precision: 86.23%, Recall: 98.97%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 67, TrueClean: 17, Precision: 25.37%
+Class 1 - Selected: 88, TrueClean: 59, Precision: 67.05%
+Class 2 - Selected: 32, TrueClean: 6, Precision: 18.75%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 127, TrueClean: 97, Precision: 76.38%
+Class 5 - Selected: 38, TrueClean: 22, Precision: 57.89%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 8, TrueClean: 5, Precision: 62.50%
+Class 1 - Selected: 13, TrueClean: 7, Precision: 53.85%
+Class 2 - Selected: 85, TrueClean: 38, Precision: 44.71%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 1, TrueClean: 1, Precision: 100.00%
+Class 5 - Selected: 394, TrueClean: 306, Precision: 77.66%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 33
+Precision (true clean ratio): 56.16%   Recall (selected in all clean): 83.81%    
+Hard ratio : 53.19%   Correction ratio: 69.57%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 177, TrueClean: 70, TotalClean: 109, Precision: 39.55%, Recall: 64.22%
+Class 1 - Selected: 112, TrueClean: 89, TotalClean: 179, Precision: 79.46%, Recall: 49.72%
+Class 2 - Selected: 2165, TrueClean: 391, TotalClean: 399, Precision: 18.06%, Recall: 97.99%
+Class 3 - Selected: 0, TrueClean: 0, TotalClean: 41, Precision: 0.00%, Recall: 0.00%
+Class 4 - Selected: 78, TrueClean: 69, TotalClean: 380, Precision: 88.46%, Recall: 18.16%
+Class 5 - Selected: 2666, TrueClean: 2300, TotalClean: 2323, Precision: 86.27%, Recall: 99.01%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 81, TrueClean: 22, Precision: 27.16%
+Class 1 - Selected: 74, TrueClean: 49, Precision: 66.22%
+Class 2 - Selected: 43, TrueClean: 8, Precision: 18.60%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 99, TrueClean: 79, Precision: 79.80%
+Class 5 - Selected: 32, TrueClean: 17, Precision: 53.12%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 13, TrueClean: 7, Precision: 53.85%
+Class 1 - Selected: 16, TrueClean: 9, Precision: 56.25%
+Class 2 - Selected: 94, TrueClean: 38, Precision: 40.43%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 1, TrueClean: 1, Precision: 100.00%
+Class 5 - Selected: 405, TrueClean: 313, Precision: 77.28%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 34
+Precision (true clean ratio): 56.07%   Recall (selected in all clean): 83.41%    
+Hard ratio : 53.90%   Correction ratio: 67.27%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 171, TrueClean: 64, TotalClean: 109, Precision: 37.43%, Recall: 58.72%
+Class 1 - Selected: 117, TrueClean: 90, TotalClean: 179, Precision: 76.92%, Recall: 50.28%
+Class 2 - Selected: 2168, TrueClean: 391, TotalClean: 399, Precision: 18.04%, Recall: 97.99%
+Class 3 - Selected: 0, TrueClean: 0, TotalClean: 41, Precision: 0.00%, Recall: 0.00%
+Class 4 - Selected: 60, TrueClean: 54, TotalClean: 380, Precision: 90.00%, Recall: 14.21%
+Class 5 - Selected: 2665, TrueClean: 2306, TotalClean: 2323, Precision: 86.53%, Recall: 99.27%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 84, TrueClean: 27, Precision: 32.14%
+Class 1 - Selected: 62, TrueClean: 40, Precision: 64.52%
+Class 2 - Selected: 39, TrueClean: 8, Precision: 20.51%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 91, TrueClean: 77, Precision: 84.62%
+Class 5 - Selected: 32, TrueClean: 14, Precision: 43.75%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 8, TrueClean: 4, Precision: 50.00%
+Class 1 - Selected: 9, TrueClean: 5, Precision: 55.56%
+Class 2 - Selected: 113, TrueClean: 48, Precision: 42.48%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 1, TrueClean: 1, Precision: 100.00%
+Class 5 - Selected: 419, TrueClean: 312, Precision: 74.46%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 35
+Precision (true clean ratio): 56.04%   Recall (selected in all clean): 82.97%    
+Hard ratio : 50.81%   Correction ratio: 63.81%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 171, TrueClean: 69, TotalClean: 109, Precision: 40.35%, Recall: 63.30%
+Class 1 - Selected: 116, TrueClean: 90, TotalClean: 179, Precision: 77.59%, Recall: 50.28%
+Class 2 - Selected: 2163, TrueClean: 388, TotalClean: 399, Precision: 17.94%, Recall: 97.24%
+Class 3 - Selected: 0, TrueClean: 0, TotalClean: 41, Precision: 0.00%, Recall: 0.00%
+Class 4 - Selected: 50, TrueClean: 45, TotalClean: 380, Precision: 90.00%, Recall: 11.84%
+Class 5 - Selected: 2657, TrueClean: 2298, TotalClean: 2323, Precision: 86.49%, Recall: 98.92%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 87, TrueClean: 23, Precision: 26.44%
+Class 1 - Selected: 61, TrueClean: 39, Precision: 63.93%
+Class 2 - Selected: 42, TrueClean: 9, Precision: 21.43%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 77, TrueClean: 67, Precision: 87.01%
+Class 5 - Selected: 40, TrueClean: 18, Precision: 45.00%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 12, TrueClean: 6, Precision: 50.00%
+Class 1 - Selected: 13, TrueClean: 9, Precision: 69.23%
+Class 2 - Selected: 113, TrueClean: 41, Precision: 36.28%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 1, TrueClean: 1, Precision: 100.00%
+Class 5 - Selected: 386, TrueClean: 278, Precision: 72.02%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 36
+Precision (true clean ratio): 55.76%   Recall (selected in all clean): 82.60%    
+Hard ratio : 53.41%   Correction ratio: 66.08%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 180, TrueClean: 66, TotalClean: 109, Precision: 36.67%, Recall: 60.55%
+Class 1 - Selected: 111, TrueClean: 84, TotalClean: 179, Precision: 75.68%, Recall: 46.93%
+Class 2 - Selected: 2163, TrueClean: 390, TotalClean: 399, Precision: 18.03%, Recall: 97.74%
+Class 3 - Selected: 0, TrueClean: 0, TotalClean: 41, Precision: 0.00%, Recall: 0.00%
+Class 4 - Selected: 40, TrueClean: 37, TotalClean: 380, Precision: 92.50%, Recall: 9.74%
+Class 5 - Selected: 2666, TrueClean: 2300, TotalClean: 2323, Precision: 86.27%, Recall: 99.01%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 81, TrueClean: 27, Precision: 33.33%
+Class 1 - Selected: 64, TrueClean: 44, Precision: 68.75%
+Class 2 - Selected: 41, TrueClean: 8, Precision: 19.51%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 62, TrueClean: 53, Precision: 85.48%
+Class 5 - Selected: 31, TrueClean: 17, Precision: 54.84%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 8, TrueClean: 4, Precision: 50.00%
+Class 1 - Selected: 12, TrueClean: 6, Precision: 50.00%
+Class 2 - Selected: 123, TrueClean: 52, Precision: 42.28%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 1, TrueClean: 1, Precision: 100.00%
+Class 5 - Selected: 425, TrueClean: 313, Precision: 73.65%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 37
+Precision (true clean ratio): 55.70%   Recall (selected in all clean): 81.77%    
+Hard ratio : 56.31%   Correction ratio: 62.91%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 169, TrueClean: 65, TotalClean: 109, Precision: 38.46%, Recall: 59.63%
+Class 1 - Selected: 97, TrueClean: 74, TotalClean: 179, Precision: 76.29%, Recall: 41.34%
+Class 2 - Selected: 2168, TrueClean: 388, TotalClean: 399, Precision: 17.90%, Recall: 97.24%
+Class 3 - Selected: 0, TrueClean: 0, TotalClean: 41, Precision: 0.00%, Recall: 0.00%
+Class 4 - Selected: 33, TrueClean: 31, TotalClean: 380, Precision: 93.94%, Recall: 8.16%
+Class 5 - Selected: 2646, TrueClean: 2290, TotalClean: 2323, Precision: 86.55%, Recall: 98.58%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 85, TrueClean: 28, Precision: 32.94%
+Class 1 - Selected: 83, TrueClean: 60, Precision: 72.29%
+Class 2 - Selected: 40, TrueClean: 11, Precision: 27.50%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 54, TrueClean: 48, Precision: 88.89%
+Class 5 - Selected: 47, TrueClean: 27, Precision: 57.45%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 16, TrueClean: 8, Precision: 50.00%
+Class 1 - Selected: 13, TrueClean: 7, Precision: 53.85%
+Class 2 - Selected: 149, TrueClean: 52, Precision: 34.90%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 399, TrueClean: 296, Precision: 74.19%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 38
+Precision (true clean ratio): 55.88%   Recall (selected in all clean): 81.60%    
+Hard ratio : 51.16%   Correction ratio: 61.36%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 165, TrueClean: 60, TotalClean: 109, Precision: 36.36%, Recall: 55.05%
+Class 1 - Selected: 99, TrueClean: 81, TotalClean: 179, Precision: 81.82%, Recall: 45.25%
+Class 2 - Selected: 2151, TrueClean: 386, TotalClean: 399, Precision: 17.95%, Recall: 96.74%
+Class 3 - Selected: 0, TrueClean: 0, TotalClean: 41, Precision: 0.00%, Recall: 0.00%
+Class 4 - Selected: 27, TrueClean: 26, TotalClean: 380, Precision: 96.30%, Recall: 6.84%
+Class 5 - Selected: 2644, TrueClean: 2289, TotalClean: 2323, Precision: 86.57%, Recall: 98.54%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 88, TrueClean: 32, Precision: 36.36%
+Class 1 - Selected: 71, TrueClean: 46, Precision: 64.79%
+Class 2 - Selected: 51, TrueClean: 12, Precision: 23.53%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 48, TrueClean: 43, Precision: 89.58%
+Class 5 - Selected: 45, TrueClean: 22, Precision: 48.89%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 14, TrueClean: 7, Precision: 50.00%
+Class 1 - Selected: 14, TrueClean: 8, Precision: 57.14%
+Class 2 - Selected: 138, TrueClean: 48, Precision: 34.78%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 2, TrueClean: 1, Precision: 50.00%
+Class 5 - Selected: 391, TrueClean: 279, Precision: 71.36%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 39
+Precision (true clean ratio): 55.98%   Recall (selected in all clean): 81.42%    
+Hard ratio : 50.17%   Correction ratio: 62.31%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 158, TrueClean: 56, TotalClean: 109, Precision: 35.44%, Recall: 51.38%
+Class 1 - Selected: 104, TrueClean: 80, TotalClean: 179, Precision: 76.92%, Recall: 44.69%
+Class 2 - Selected: 2134, TrueClean: 387, TotalClean: 399, Precision: 18.13%, Recall: 96.99%
+Class 3 - Selected: 0, TrueClean: 0, TotalClean: 41, Precision: 0.00%, Recall: 0.00%
+Class 4 - Selected: 19, TrueClean: 18, TotalClean: 380, Precision: 94.74%, Recall: 4.74%
+Class 5 - Selected: 2651, TrueClean: 2295, TotalClean: 2323, Precision: 86.57%, Recall: 98.79%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 90, TrueClean: 36, Precision: 40.00%
+Class 1 - Selected: 65, TrueClean: 43, Precision: 66.15%
+Class 2 - Selected: 59, TrueClean: 11, Precision: 18.64%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 37, TrueClean: 33, Precision: 89.19%
+Class 5 - Selected: 38, TrueClean: 22, Precision: 57.89%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 6, TrueClean: 3, Precision: 50.00%
+Class 1 - Selected: 9, TrueClean: 6, Precision: 66.67%
+Class 2 - Selected: 161, TrueClean: 62, Precision: 38.51%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 413, TrueClean: 296, Precision: 71.67%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 40
+Precision (true clean ratio): 55.89%   Recall (selected in all clean): 81.74%    
+Hard ratio : 52.10%   Correction ratio: 61.72%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 169, TrueClean: 64, TotalClean: 109, Precision: 37.87%, Recall: 58.72%
+Class 1 - Selected: 108, TrueClean: 83, TotalClean: 179, Precision: 76.85%, Recall: 46.37%
+Class 2 - Selected: 2144, TrueClean: 391, TotalClean: 399, Precision: 18.24%, Recall: 97.99%
+Class 3 - Selected: 0, TrueClean: 0, TotalClean: 41, Precision: 0.00%, Recall: 0.00%
+Class 4 - Selected: 24, TrueClean: 21, TotalClean: 380, Precision: 87.50%, Recall: 5.53%
+Class 5 - Selected: 2649, TrueClean: 2288, TotalClean: 2323, Precision: 86.37%, Recall: 98.49%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 83, TrueClean: 29, Precision: 34.94%
+Class 1 - Selected: 61, TrueClean: 44, Precision: 72.13%
+Class 2 - Selected: 55, TrueClean: 7, Precision: 12.73%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 47, TrueClean: 43, Precision: 91.49%
+Class 5 - Selected: 40, TrueClean: 26, Precision: 65.00%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 15, TrueClean: 7, Precision: 46.67%
+Class 1 - Selected: 11, TrueClean: 5, Precision: 45.45%
+Class 2 - Selected: 165, TrueClean: 65, Precision: 39.39%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 368, TrueClean: 268, Precision: 72.83%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 41
+Precision (true clean ratio): 55.98%   Recall (selected in all clean): 81.25%    
+Hard ratio : 48.36%   Correction ratio: 62.57%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 171, TrueClean: 58, TotalClean: 109, Precision: 33.92%, Recall: 53.21%
+Class 1 - Selected: 103, TrueClean: 83, TotalClean: 179, Precision: 80.58%, Recall: 46.37%
+Class 2 - Selected: 2122, TrueClean: 386, TotalClean: 399, Precision: 18.19%, Recall: 96.74%
+Class 3 - Selected: 0, TrueClean: 0, TotalClean: 41, Precision: 0.00%, Recall: 0.00%
+Class 4 - Selected: 22, TrueClean: 19, TotalClean: 380, Precision: 86.36%, Recall: 5.00%
+Class 5 - Selected: 2637, TrueClean: 2284, TotalClean: 2323, Precision: 86.61%, Recall: 98.32%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 78, TrueClean: 29, Precision: 37.18%
+Class 1 - Selected: 71, TrueClean: 44, Precision: 61.97%
+Class 2 - Selected: 69, TrueClean: 13, Precision: 18.84%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 41, TrueClean: 37, Precision: 90.24%
+Class 5 - Selected: 45, TrueClean: 24, Precision: 53.33%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 7, TrueClean: 3, Precision: 42.86%
+Class 1 - Selected: 17, TrueClean: 11, Precision: 64.71%
+Class 2 - Selected: 153, TrueClean: 60, Precision: 39.22%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 376, TrueClean: 272, Precision: 72.34%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 42
+Precision (true clean ratio): 55.92%   Recall (selected in all clean): 80.99%    
+Hard ratio : 52.63%   Correction ratio: 63.32%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 166, TrueClean: 57, TotalClean: 109, Precision: 34.34%, Recall: 52.29%
+Class 1 - Selected: 106, TrueClean: 82, TotalClean: 179, Precision: 77.36%, Recall: 45.81%
+Class 2 - Selected: 2117, TrueClean: 380, TotalClean: 399, Precision: 17.95%, Recall: 95.24%
+Class 3 - Selected: 0, TrueClean: 0, TotalClean: 41, Precision: 0.00%, Recall: 0.00%
+Class 4 - Selected: 18, TrueClean: 16, TotalClean: 380, Precision: 88.89%, Recall: 4.21%
+Class 5 - Selected: 2638, TrueClean: 2286, TotalClean: 2323, Precision: 86.66%, Recall: 98.41%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 86, TrueClean: 30, Precision: 34.88%
+Class 1 - Selected: 69, TrueClean: 50, Precision: 72.46%
+Class 2 - Selected: 73, TrueClean: 18, Precision: 24.66%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 47, TrueClean: 44, Precision: 93.62%
+Class 5 - Selected: 48, TrueClean: 28, Precision: 58.33%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 7, TrueClean: 3, Precision: 42.86%
+Class 1 - Selected: 13, TrueClean: 5, Precision: 38.46%
+Class 2 - Selected: 131, TrueClean: 60, Precision: 45.80%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 367, TrueClean: 260, Precision: 70.84%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 43
+Precision (true clean ratio): 55.92%   Recall (selected in all clean): 80.94%    
+Hard ratio : 50.48%   Correction ratio: 61.04%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 169, TrueClean: 59, TotalClean: 109, Precision: 34.91%, Recall: 54.13%
+Class 1 - Selected: 97, TrueClean: 75, TotalClean: 179, Precision: 77.32%, Recall: 41.90%
+Class 2 - Selected: 2116, TrueClean: 384, TotalClean: 399, Precision: 18.15%, Recall: 96.24%
+Class 3 - Selected: 0, TrueClean: 0, TotalClean: 41, Precision: 0.00%, Recall: 0.00%
+Class 4 - Selected: 19, TrueClean: 18, TotalClean: 380, Precision: 94.74%, Recall: 4.74%
+Class 5 - Selected: 2640, TrueClean: 2283, TotalClean: 2323, Precision: 86.48%, Recall: 98.28%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 76, TrueClean: 28, Precision: 36.84%
+Class 1 - Selected: 80, TrueClean: 55, Precision: 68.75%
+Class 2 - Selected: 75, TrueClean: 12, Precision: 16.00%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 39, TrueClean: 36, Precision: 92.31%
+Class 5 - Selected: 45, TrueClean: 28, Precision: 62.22%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 11, TrueClean: 3, Precision: 27.27%
+Class 1 - Selected: 16, TrueClean: 7, Precision: 43.75%
+Class 2 - Selected: 131, TrueClean: 54, Precision: 41.22%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 340, TrueClean: 240, Precision: 70.59%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 44
+Precision (true clean ratio): 56.37%   Recall (selected in all clean): 80.85%    
+Hard ratio : 45.51%   Correction ratio: 63.45%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 156, TrueClean: 57, TotalClean: 109, Precision: 36.54%, Recall: 52.29%
+Class 1 - Selected: 95, TrueClean: 80, TotalClean: 179, Precision: 84.21%, Recall: 44.69%
+Class 2 - Selected: 2098, TrueClean: 379, TotalClean: 399, Precision: 18.06%, Recall: 94.99%
+Class 3 - Selected: 0, TrueClean: 0, TotalClean: 41, Precision: 0.00%, Recall: 0.00%
+Class 4 - Selected: 17, TrueClean: 16, TotalClean: 380, Precision: 94.12%, Recall: 4.21%
+Class 5 - Selected: 2630, TrueClean: 2284, TotalClean: 2323, Precision: 86.84%, Recall: 98.32%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 85, TrueClean: 26, Precision: 30.59%
+Class 1 - Selected: 74, TrueClean: 47, Precision: 63.51%
+Class 2 - Selected: 86, TrueClean: 17, Precision: 19.77%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 36, TrueClean: 33, Precision: 91.67%
+Class 5 - Selected: 53, TrueClean: 29, Precision: 54.72%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 5, TrueClean: 2, Precision: 40.00%
+Class 1 - Selected: 21, TrueClean: 12, Precision: 57.14%
+Class 2 - Selected: 145, TrueClean: 61, Precision: 42.07%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 368, TrueClean: 267, Precision: 72.55%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 45
+Precision (true clean ratio): 56.34%   Recall (selected in all clean): 80.79%    
+Hard ratio : 44.18%   Correction ratio: 63.73%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 155, TrueClean: 57, TotalClean: 109, Precision: 36.77%, Recall: 52.29%
+Class 1 - Selected: 96, TrueClean: 77, TotalClean: 179, Precision: 80.21%, Recall: 43.02%
+Class 2 - Selected: 2098, TrueClean: 382, TotalClean: 399, Precision: 18.21%, Recall: 95.74%
+Class 3 - Selected: 0, TrueClean: 0, TotalClean: 41, Precision: 0.00%, Recall: 0.00%
+Class 4 - Selected: 18, TrueClean: 18, TotalClean: 380, Precision: 100.00%, Recall: 4.74%
+Class 5 - Selected: 2628, TrueClean: 2280, TotalClean: 2323, Precision: 86.76%, Recall: 98.15%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 89, TrueClean: 30, Precision: 33.71%
+Class 1 - Selected: 66, TrueClean: 45, Precision: 68.18%
+Class 2 - Selected: 89, TrueClean: 14, Precision: 15.73%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 32, TrueClean: 29, Precision: 90.62%
+Class 5 - Selected: 59, TrueClean: 30, Precision: 50.85%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 10, TrueClean: 6, Precision: 60.00%
+Class 1 - Selected: 11, TrueClean: 5, Precision: 45.45%
+Class 2 - Selected: 140, TrueClean: 61, Precision: 43.57%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 327, TrueClean: 239, Precision: 73.09%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 46
+Precision (true clean ratio): 56.42%   Recall (selected in all clean): 80.65%    
+Hard ratio : 44.85%   Correction ratio: 60.19%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 160, TrueClean: 62, TotalClean: 109, Precision: 38.75%, Recall: 56.88%
+Class 1 - Selected: 91, TrueClean: 70, TotalClean: 179, Precision: 76.92%, Recall: 39.11%
+Class 2 - Selected: 2088, TrueClean: 382, TotalClean: 399, Precision: 18.30%, Recall: 95.74%
+Class 3 - Selected: 0, TrueClean: 0, TotalClean: 41, Precision: 0.00%, Recall: 0.00%
+Class 4 - Selected: 13, TrueClean: 13, TotalClean: 380, Precision: 100.00%, Recall: 3.42%
+Class 5 - Selected: 2627, TrueClean: 2282, TotalClean: 2323, Precision: 86.87%, Recall: 98.24%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 72, TrueClean: 22, Precision: 30.56%
+Class 1 - Selected: 77, TrueClean: 56, Precision: 72.73%
+Class 2 - Selected: 94, TrueClean: 15, Precision: 15.96%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 36, TrueClean: 31, Precision: 86.11%
+Class 5 - Selected: 51, TrueClean: 24, Precision: 47.06%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 6, TrueClean: 3, Precision: 50.00%
+Class 1 - Selected: 15, TrueClean: 5, Precision: 33.33%
+Class 2 - Selected: 157, TrueClean: 69, Precision: 43.95%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 342, TrueClean: 236, Precision: 69.01%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 47
+Precision (true clean ratio): 56.49%   Recall (selected in all clean): 80.62%    
+Hard ratio : 43.67%   Correction ratio: 61.89%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 146, TrueClean: 55, TotalClean: 109, Precision: 37.67%, Recall: 50.46%
+Class 1 - Selected: 94, TrueClean: 76, TotalClean: 179, Precision: 80.85%, Recall: 42.46%
+Class 2 - Selected: 2086, TrueClean: 381, TotalClean: 399, Precision: 18.26%, Recall: 95.49%
+Class 3 - Selected: 0, TrueClean: 0, TotalClean: 41, Precision: 0.00%, Recall: 0.00%
+Class 4 - Selected: 15, TrueClean: 14, TotalClean: 380, Precision: 93.33%, Recall: 3.68%
+Class 5 - Selected: 2630, TrueClean: 2282, TotalClean: 2323, Precision: 86.77%, Recall: 98.24%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 87, TrueClean: 28, Precision: 32.18%
+Class 1 - Selected: 69, TrueClean: 47, Precision: 68.12%
+Class 2 - Selected: 84, TrueClean: 14, Precision: 16.67%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 26, TrueClean: 23, Precision: 88.46%
+Class 5 - Selected: 50, TrueClean: 26, Precision: 52.00%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 12, TrueClean: 5, Precision: 41.67%
+Class 1 - Selected: 13, TrueClean: 7, Precision: 53.85%
+Class 2 - Selected: 149, TrueClean: 59, Precision: 39.60%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 335, TrueClean: 244, Precision: 72.84%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 48
+Precision (true clean ratio): 56.31%   Recall (selected in all clean): 80.10%    
+Hard ratio : 47.08%   Correction ratio: 61.72%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 136, TrueClean: 43, TotalClean: 109, Precision: 31.62%, Recall: 39.45%
+Class 1 - Selected: 102, TrueClean: 76, TotalClean: 179, Precision: 74.51%, Recall: 42.46%
+Class 2 - Selected: 2081, TrueClean: 380, TotalClean: 399, Precision: 18.26%, Recall: 95.24%
+Class 3 - Selected: 0, TrueClean: 0, TotalClean: 41, Precision: 0.00%, Recall: 0.00%
+Class 4 - Selected: 15, TrueClean: 13, TotalClean: 380, Precision: 86.67%, Recall: 3.42%
+Class 5 - Selected: 2621, TrueClean: 2278, TotalClean: 2323, Precision: 86.91%, Recall: 98.06%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 90, TrueClean: 39, Precision: 43.33%
+Class 1 - Selected: 62, TrueClean: 48, Precision: 77.42%
+Class 2 - Selected: 98, TrueClean: 14, Precision: 14.29%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 29, TrueClean: 28, Precision: 96.55%
+Class 5 - Selected: 63, TrueClean: 32, Precision: 50.79%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 3, TrueClean: 1, Precision: 33.33%
+Class 1 - Selected: 18, TrueClean: 10, Precision: 55.56%
+Class 2 - Selected: 139, TrueClean: 60, Precision: 43.17%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 318, TrueClean: 224, Precision: 70.44%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Epoch 49
+Precision (true clean ratio): 56.38%   Recall (selected in all clean): 79.96%    
+Hard ratio : 47.46%   Correction ratio: 60.00%    
+=== Per-Class Statistics ===
+Class 0 - Selected: 146, TrueClean: 52, TotalClean: 109, Precision: 35.62%, Recall: 47.71%
+Class 1 - Selected: 98, TrueClean: 78, TotalClean: 179, Precision: 79.59%, Recall: 43.58%
+Class 2 - Selected: 2075, TrueClean: 377, TotalClean: 399, Precision: 18.17%, Recall: 94.49%
+Class 3 - Selected: 0, TrueClean: 0, TotalClean: 41, Precision: 0.00%, Recall: 0.00%
+Class 4 - Selected: 13, TrueClean: 12, TotalClean: 380, Precision: 92.31%, Recall: 3.16%
+Class 5 - Selected: 2608, TrueClean: 2266, TotalClean: 2323, Precision: 86.89%, Recall: 97.55%
+Class 6 - Selected: 0, TrueClean: 0, TotalClean: 52, Precision: 0.00%, Recall: 0.00%
+
+=== Hard Sample Statistics ===
+Class 0 - Selected: 88, TrueClean: 37, Precision: 42.05%
+Class 1 - Selected: 70, TrueClean: 48, Precision: 68.57%
+Class 2 - Selected: 100, TrueClean: 16, Precision: 16.00%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 26, TrueClean: 23, Precision: 88.46%
+Class 5 - Selected: 70, TrueClean: 44, Precision: 62.86%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%
+=== Correction Sample Statistics ===
+Class 0 - Selected: 7, TrueClean: 3, Precision: 42.86%
+Class 1 - Selected: 16, TrueClean: 6, Precision: 37.50%
+Class 2 - Selected: 139, TrueClean: 57, Precision: 41.01%
+Class 3 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 4 - Selected: 0, TrueClean: 0, Precision: 0.00%
+Class 5 - Selected: 328, TrueClean: 228, Precision: 69.51%
+Class 6 - Selected: 0, TrueClean: 0, Precision: 0.00%

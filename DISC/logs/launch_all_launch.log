@@ -1,0 +1,29 @@
+nohup: ignoring input
+>>> [GPU 3] Running seed 0, task 0: --noise_type instance --noise_rate 0.2
+>>> [GPU 3] Logging to logs/train_disc_organcmnist__instance_seed0_rate020_50.log
+>>> [GPU 3] Finished seed 0, task 0
+>>> [GPU 3] Running seed 0, task 1: --noise_type instance --noise_rate 0.5
+>>> [GPU 3] Logging to logs/train_disc_organcmnist__instance_seed0_rate050_50.log
+>>> [GPU 3] Finished seed 0, task 1
+>>> [GPU 3] Running seed 0, task 2: --noise_type instance --noise_rate 0.9
+>>> [GPU 3] Logging to logs/train_disc_organcmnist__instance_seed0_rate090_50.log
+>>> [GPU 3] Finished seed 0, task 2
+>>> [GPU 3] Running seed 5, task 0: --noise_type instance --noise_rate 0.2
+>>> [GPU 3] Logging to logs/train_disc_organcmnist__instance_seed5_rate020_50.log
+>>> [GPU 3] Finished seed 5, task 0
+>>> [GPU 3] Running seed 5, task 1: --noise_type instance --noise_rate 0.5
+>>> [GPU 3] Logging to logs/train_disc_organcmnist__instance_seed5_rate050_50.log
+>>> [GPU 3] Finished seed 5, task 1
+>>> [GPU 3] Running seed 5, task 2: --noise_type instance --noise_rate 0.9
+>>> [GPU 3] Logging to logs/train_disc_organcmnist__instance_seed5_rate090_50.log
+>>> [GPU 3] Finished seed 5, task 2
+>>> [GPU 3] Running seed 10, task 0: --noise_type instance --noise_rate 0.2
+>>> [GPU 3] Logging to logs/train_disc_organcmnist__instance_seed10_rate020_50.log
+>>> [GPU 3] Finished seed 10, task 0
+>>> [GPU 3] Running seed 10, task 1: --noise_type instance --noise_rate 0.5
+>>> [GPU 3] Logging to logs/train_disc_organcmnist__instance_seed10_rate050_50.log
+>>> [GPU 3] Finished seed 10, task 1
+>>> [GPU 3] Running seed 10, task 2: --noise_type instance --noise_rate 0.9
+>>> [GPU 3] Logging to logs/train_disc_organcmnist__instance_seed10_rate090_50.log
+>>> [GPU 3] Finished seed 10, task 2
+>>> All tasks finished on GPU 3.

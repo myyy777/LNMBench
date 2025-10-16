@@ -1,0 +1,14 @@
+nohup: ignoring input
+>>> [GPU 1] Running task 0: --noise_type instance --noise_rate 0.5
+>>> [GPU 1] Logging to logs/train_disc__instance_seed0_rate050_50.log
+>>> [GPU 1] Finished task 0
+>>> [GPU 1] Running task 1: --noise_type instance --noise_rate 0.8
+>>> [GPU 1] Logging to logs/train_disc__instance_seed0_rate080_50.log
+>>> [GPU 1] Finished task 1
+>>> [GPU 1] Running task 2: --noise_type instance --noise_rate 0.9
+>>> [GPU 1] Logging to logs/train_disc__instance_seed0_rate090_50.log
+>>> [GPU 1] Finished task 2
+>>> [GPU 1] Running task 3: --noise_type instance --noise_rate 0.2
+>>> [GPU 1] Logging to logs/train_disc__instance_seed0_rate020_50.log
+>>> [GPU 1] Finished task 3
+>>> All tasks finished on GPU 1.
