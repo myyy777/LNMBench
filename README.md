@@ -62,13 +62,13 @@ python main.py --dataset pathmnist --noise_type symmetric --noise_rate 0.5
 | DivideMix              | DIVIDEMIX: LEARNING WITH NOISY LABELS AS  SEMI-SUPERVISED LEARNING                         |            |                      |
 
 ### ✅ Support Backbones
-| Backbones        | Paper                                                                                | Status |
-|------------------|--------------------------------------------------------------------------------------|---------|
-| ResNet           | Deep residual learning for image recognition                                         | ✅ Done |
-| PreActResNet     | Improves ResNet by pre-activating BN/ReLU                                            | ⏳ In progress |
-| ViT              | An image is worth 16x16 words: Transformers for image recognition at scale           | ⏳ In progress |
-| Swin Transformer | Swin transformer: Hierarchical vision transformer using shifted windows              | ⏳ In progress |
-| ConvNext         | A convnet for the 2020s                                                              | ⏳ In progress |
+| Backbones        | Paper                                                                     | Status |
+|------------------|---------------------------------------------------------------------------|---------|
+| ResNet           | Deep residual learning for image recognition                              | ✅ Done |
+| PreActResNet     | Improves ResNet by pre-activating BN/ReLU                                 | ⏳ In progress |
+| ViT              | An image is worth 16x16 words: Transformers for image recognition at scale| ⏳ In progress |
+| Swin Transformer | Swin transformer: Hierarchical vision transformer using shifted windows   | ⏳ In progress |
+| ConvNext         | A convnet for the 2020s                                                   | ⏳ In progress |
 
 ### ✅ Metrics
 
