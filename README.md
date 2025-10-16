@@ -5,6 +5,15 @@ Benchmarking Real-World Medical Image Classification with Noisy Labels: Challeng
 LNMBench encompasses ten representative methods evaluated across 7 datasets, 6 imaging modalities, and 3 noise patterns, establishing a unified and reproducible framework for robustness evaluation under realistic conditions.
 ![alt text](fig.png)
 
+## Introduction
+To obtain a stable and fair comparison, we report the average classification accuracy over the last 5 epochs for each method under three noise patterns: symmetric noise, instance-dependent noise, and real-world noise. 
+Based on these results, we rank all methods according to their average performance, and further compute the mean accuracy across the three noise scenarios to provide an overall measure of robustness.
+Overall, Co-teaching and DISC  achieved the highest average classification accuracy under all noise patterns. 
+Co-teaching+ and DivideMix achieved the highest average classification accuracy under symmetric noise.
+Co-teaching and CoDisc achieved the highest average classification accuracy under instance-dependent noise.
+The noise-robust regularization methods~(SCE and CDR) achieved the highest average classification accuracy under real-world noise.
+![alt text](fig2.png)
+
 ## Installation
 First, clone the repo and cd into the directory:
 ```shell
