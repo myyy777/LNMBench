@@ -1,0 +1,17 @@
+addict==2.4.0
+ipdb==0.13.13
+matplotlib==3.5.3
+medmnist==3.0.2
+NL==0.102
+nni==3.0
+numpy==1.21.6
+pandas==1.3.5
+Pillow==9.5.0
+Pillow==12.0.0
+scikit_learn==1.0.2
+scipy==1.7.3
+six==1.16.0
+torch==1.13.1
+torchnet==0.0.4
+torchvision==0.14.1
+tqdm==4.67.1
