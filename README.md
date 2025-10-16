@@ -65,10 +65,20 @@ python main.py --dataset pathmnist --noise_type symmetric --noise_rate 0.5
 | Backbones        | Paper                                                                                | Status |
 |------------------|--------------------------------------------------------------------------------------|---------|
 | ResNet           | Deep residual learning for image recognition                                         | ✅ Done |
+| PreActResNet     | Improves ResNet by pre-activating BN/ReLU                                            | ✅ Done |
 | ViT              | An image is worth 16x16 words: Transformers for image recognition at scale           | ⏳ In progress |
 | Swin Transformer | Swin transformer: Hierarchical vision transformer using shifted windows              | ⏳ In progress |
 | ConvNext         | A convnet for the 2020s                                                              | ⏳ In progress |
 
+### ✅ Metrics
+
+| Metric Name              | Status |
+|---------------------------|---------|
+| Classification Accuracy   | ✅ Done |
+| FPR@95                    | ⏳ In progress |
+| Sensitivity               | ⏳ In progress |
+| AUC                       | ⏳ In progress |
+| F1-score                  | ⏳ In progress |
 
 
 
