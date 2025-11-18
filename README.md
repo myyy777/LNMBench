@@ -45,11 +45,11 @@ pip install -r requirements.txt
 For example, traing the pathmnist.
 ```bash
 bash run.sh \
-         --dataset pathmnist
-         --noise_type instance
-         --noise_rate 0.2
-         --backbone resnet50
-         -metrics  acc
+         --dataset pathmnist \
+         --noise_type instance \
+         --noise_rate 0.2 \
+         --backbone resnet50 \
+         -metrics  acc \
 ```
 ### Support Methods
 | Methods                | Paper                                                                                      | Link (TBD) | Offical Codes (TBD)  |
