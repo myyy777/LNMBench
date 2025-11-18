@@ -41,10 +41,15 @@ pip install -r requirements.txt
 | Radiology        | CheXpert        | https://stanfordmlgroup.github.io/competitions/chexpert/                               | [Stanford University Dataset Research Use Agreement](https://stanfordaimi.azurewebsites.net/datasets/8cbd9ed4-2eb9-4565-affc-111cf4f7ebe2) |
 
 
-## 2. Start Training
-For example, traing the Co-teaching method.
+## 2. Start benching
+For example, traing the pathmnist.
 ```bash
-python main.py --dataset pathmnist --noise_type symmetric --noise_rate 0.5 
+bash run.sh \
+         --dataset pathmnist
+         --noise_type instance
+         --noise_rate 0.2
+         --backbone resnet50
+         -metrics  acc
 ```
 ### Support Methods
 | Methods                | Paper                                                                                      | Link (TBD) | Offical Codes (TBD)  |
