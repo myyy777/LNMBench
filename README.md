@@ -49,7 +49,7 @@ bash run.sh \
          --noise_type instance \
          --noise_rate 0.2 \
          --backbone resnet50 \
-         -metrics  acc \
+         --metrics  acc \
 ```
 ### Support Methods
 | Methods                | Paper                                                                                      | Link (TBD) | Offical Codes (TBD)  |
